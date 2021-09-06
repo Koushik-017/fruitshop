@@ -1,0 +1,21 @@
+table{
+    border: 5px solid rgb(205, 94, 50);
+    width: 100%;
+text-align: center;
+padding: 3px;
+margin-top: 5px;
+}#main-holder{
+    width: 30%;
+    height: 50%;
+    display: grid;
+    align-items: center;
+    background-color: rgb(216, 214, 112);
+    justify-items: center;
+    border-radius: 20px;
+    box-shadow:  5px 10px black;
+ 
+}
+h1{
+    text-shadow: 2px 2px #ff00d4;
+}
+

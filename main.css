@@ -1,0 +1,29 @@
+h1{
+    text-shadow: 2px 2px #ff0000;
+}
+#main-holder{
+    width: 60%;
+    height: 90%;
+    display: grid;
+    align-items: center;
+    background-color: rgb(0, 225, 255);
+    justify-items: center;
+    border-radius: 20px;
+    box-shadow:  5px 10px #888888;
+ 
+}
+#item{
+    background-color: chocolate;
+    border-radius: 40px;
+}
+#quantity{
+    background-color: cornflowerblue;
+    border-radius: 40px;
+}
+#add{
+    background-color: black;
+    color: red;
+}
+.proceed{
+    background-color: gold;
+}

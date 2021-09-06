@@ -1,0 +1,32 @@
+html{
+    height: 100%;
+}body{
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    background-color: #3a3a3a;
+    align-items: center;
+    justify-items: center
+}#main-holder {
+    width: 50%;
+    height: 50%;
+    display: grid;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    justify-items: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px rgb(247, 0, 255);
+  background-color: pink;
+    }#username:hover{
+        background-color: black;
+    }
+    #password:hover{
+        background-color:yellowgreen;
+    }
+    #login{
+        background-color: chartreuse;
+    }
+    #reset{
+        background-color: coral;
+    }
